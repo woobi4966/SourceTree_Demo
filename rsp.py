@@ -6,3 +6,5 @@ print('Computer: {}'.format(computer))
 
 player = 'Paper'
 print('Player: {}'.format(player))
+
+input("무엇을 낼 거니?")
